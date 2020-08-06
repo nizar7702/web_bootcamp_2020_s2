@@ -12,10 +12,30 @@ p{
 }
 .smalltitle1{
     color:khaki;
+    
 }
 .smalltitle2{
     color:purple;
 }
+.smalltitle1,.smalltitle2{
+    text-decoration:underline;
+    background-color:aqua;
+}
 .stf{
     font-family:monospace;
+}
+*{
+  text-align:center;
+}
+a{
+    color:red;
+    text-decoration:none;
+
+}
+a:hover{
+    color:green;
+    text-decoration:underline;
+}
+a:visited{
+    color:grey;
 }

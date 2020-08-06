@@ -2,3 +2,14 @@ p{
     color:green;
     font-size:80px;
 }
+a{
+    color:red;
+    text-decoration:none;
+
+}
+a:hover{
+    color:green;text-decoration:underline;
+}
+a:visited{
+    color:grey;
+}
