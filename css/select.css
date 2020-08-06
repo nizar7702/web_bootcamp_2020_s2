@@ -1,0 +1,21 @@
+/*les selesteurs*/
+p{
+    color:tomato;
+    border:1px solid red;
+}
+#mytitle1{
+    color:blue;
+    font-family:monoscape;
+}
+#mytitle2{
+    color:yellow;
+}
+.smalltitle1{
+    color:khaki;
+}
+.smalltitle2{
+    color:purple;
+}
+.stf{
+    font-family:monospace;
+}
